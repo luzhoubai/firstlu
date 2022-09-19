@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c410616-88d1-4a91-821e-84f9719dc0a6" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sayhello/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sayhello/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sayhello/my word.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sayhello/sayhello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sayhello/销售额.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writedoc/my word.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writedoc/wr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writedoc/销售额.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/my word.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/readdoc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/writedoc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/销售额.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readdoc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.pypirc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup-o.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writedoc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/writedoc/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
